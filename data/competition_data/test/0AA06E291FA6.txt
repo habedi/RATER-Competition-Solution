@@ -1,0 +1,5 @@
+It is important to know how a student is feeling. So, Yes the use of FACS (Facial Action Coding System) in a classroom is valuable.
+
+Facial Action Coding System allows us to weigh different units to identify mixed emotions. Its a simple process that allows us to classify six basic emotions; happiness,surprise,anger,disgust,fear,and sadness. Those emotions are associated with characteristic movements of the facial muscles. The text states "The process begins when the computer constructs a 3-D model of the face ; all 44 major muscles in the model must move like human muscles."This is called an "action unit". Individuals often show varying degrees of expression, using FACS the new emotion recognition tracks these facial movements .
+
+In conclusion, the Facial Action Coding System is esential because it can detect how other people are feeling, even when hiding their emotions. The system can recognize the subtle facial movements and mixed emotions. With this system we can get a better understanding of students and more. 

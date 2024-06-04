@@ -1,0 +1,5 @@
+It would be a good thing to be able to read people emotions because you never know how someone feels. But what if you have no emotion to a topic? Can it read your emotions then?
+
+The Facial Coding System detect what your emotions are. The FCS can determine if you are happy, sad, angry, etc.. The ways it can tell is by your 44 major muscles. Movement of one or more muscles is called an "action unit." Dr. Paul Eckman, a psychologist creator of FACS (Facial Action Coding System). Classify six basic emotions which is associated with characteristic movements of the facial muscles. Even though people show vary degrees of expression such as not smiling it gets compared against a neutral face (showing no emotion) your emotions can still get detected. It's all about the "action units."
+
+So my questions have been answered. You can still see even with no emotion (a still face) that emotions still get detected. All because of one computer software.    

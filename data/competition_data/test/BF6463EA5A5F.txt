@@ -1,0 +1,15 @@
+TEACHER_NAME,
+
+Sir, this is an a very bad idea that you have concocted, and I cannot sit idle and watch you make this bad decision. The idea of changing school policy isn't a bad idea in itself. But the idea of not letting my peers take extra-curricular classes is a drastic change in the policy that we have become accustomed to.
+
+Some students take these activities as motivation to do better in school, or to keep them out of trouble. It should be duly noted that RELATIVE_NAME has changed dramatically since his inclusion in after school tennis. He's gone cold turkey on smoking, and has converted himself into the Christian faith! That is only one example.
+
+Every student has a story, a background. Sometimes, there is a glue to holding their life together, whether it be band, glee club, or football. Every student deserves a chance to have fun and do what interests them, and if it didn't interest them, they wouldn't show up to these activities.
+
+Sir, I implore you to think twice on this possible change. Without these activities, the students might come to a point to where they don't respect you as much as they could. Instead, you could see what the students are struggling with, and get teachers to help them in there areas that are needing assistance. Maybe even instead of changing the policy, just add another after-school activity set on helping people in need. To help raise the C average to a B.
+
+I respect that you are considering to do this all for our well-being, and that is obvious enough. But I think the answer to all of this isn't necessarily a dramatic change. I urge you to make a different decision. The students will respond more positively to a different approach.
+
+With all due respect,
+
+STUDENT_NAME      

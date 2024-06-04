@@ -1,0 +1,33 @@
+How could a computer seeing one's face detect someone's emotion and be accurate? The use the Facial Action Coding System to read the emotional expressions of students in a classroom is the answer.
+
+The author uses the picture of Mona Lisa as an example.
+
+In paragraph one, the author states, "She's 83 percent happy, 9 percent disgusted, 6 percent fearful, and 2 percent angry." (D' Alto par 1).
+
+Dr. Huang explains how the process begins when the computer contructs a 3-D computer model of the face, including all the major musclues in the model that must move like human muscles.
+
+The author then states, "For example, your frontalis pars lateralis muscle (above your eyes) raises your eyebrows when you're suprised; your orbicularis oris (around your mouth) tightens your lips to show anger." (D' Alto par. 1).
+
+Explaing how the different movement your muscles make can show the different emotions.
+
+The different emotions kids make doing class will be precisely accurate.
+
+However, in a classroom your emotions might vary differently.
+
+A student can look happy one moment and then look bored the next even though they are still happy.
+
+Dr. Huang explains how the facial expressions for each emotion are universal; meaning they can vary.
+
+That is why using video imagery will capture the mixed emotions.
+
+In paragraph four, the author states,"... the new emotion-recognition software tracks these facial movement- in a real face or in the painted face of Mona Lisa." (D'Alto par 4).
+
+Therefore if your emotions are continously changing in class, this software can detect.
+
+Having this in the classrooms will be more effective toward the teachers and students. The teacher will know when they have to modify their lesson when the kids are bored.
+
+Without this, teachers go on about a topic without doing something interesting to keep the students more alive. This software helps the kids, because if they are bored by a teacher teaching, then what will they learn?
+
+Having this technology to read the emotional expressions of students in a classroom is both valuable and useful. Valuable in terms, that it will be accurate in helping teachers modify their way of teaching if needed. Useful in terms, that it will help students be more lively in the lesson.
+
+Who would think the faces students made in class can now be detected by their own teacher?                    

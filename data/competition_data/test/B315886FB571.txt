@@ -1,0 +1,5 @@
+In the article "Making Mona Lisa Smile," the authors describes how a new technology called the Facial Action Coding System enables computers to identify human emotions. It begins by the computer constructing a 3-D computer model of the face. If more than one muscle moves, then it is called an "action unit." I think this technology to read the emotional expressions of students in the classroom is valuable.
+
+There are times that in the classroom, students do not want to do their work and the teacher does not know how are they feeling about the work she is giving. That is when the teachers can find out what the students are feeling. The teacher can also use this program for assignments for the students.
+
+The program is also useful for researching projects or assignments. Maybe the teacher wants the students to see if a picture of a certain person is happy or mad. The program is helpful because when you try it on yourself when you are mad or sad, it might actually make you day better.     

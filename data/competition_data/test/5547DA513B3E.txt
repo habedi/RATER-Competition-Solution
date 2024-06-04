@@ -1,0 +1,9 @@
+The use of technology to read emotional expressions of students in a classroom is valuable, it can detect the emotions of someone trying to hide their emotions, it can detect how you or someone else feels, and computers can find out if you like, hate, or confused about something.
+
+If you smile when a web add apears on the screen of a computer a similar add will appear, but if you frown a different add could apear.
+
+In a real smile the zygomatic major lift the corners of your mouth, but in fake smiles the mouth is streched sideways using the zygomatic major and the risorius.
+
+It uses muscular action units to indicate the difference between a genuine smile and a forced smile.
+
+With Facial Action Coding Systems people can see genuine or forced facial expressions, feeling of people with just their facial expression, and could allow computers to find out what you like or dislike.      

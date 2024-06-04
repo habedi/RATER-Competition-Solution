@@ -1,0 +1,9 @@
+The article "Making Mona Lisa Smile" talks about a software that has been developed to percieve the emotions of others. This software determined that the Mona Lisa is 83 penrcent happy, 9 percent disgusted, 6 percent fearful and 2 percent angry.
+
+For sure is an interesting project, because sometimes we want to know how other people is feeling, but, this improves accuracy in perceiving the emotions of the others as it is said on this article?
+
+Dr. Huang explain how the facial expressions for each emotion are universal, but I think every human has different expressions, or they can hide them pretty well. For example: in a movie you can have a great actor. This actor can make perfect facial expression, as he was really feeling the situation; being truly sad, happy, scared etc. but he is an actor, and this feelings that he is showing for a specific situation on the movie, are not real. Those problems are not happening in his real life.
+
+This actor can hide his emotions, and this software that can predict your emotions won't know that. So I think it's impossible know how people is feeling with just a software that works just by facial expression, because human feelings are more complex that this, and that's why whe have to study human behavior, or how their brains work with different feelings as love. Because humans are more complex than just an expression that you can hide.
+
+In conclusion, sometimes, when people let you see their feelings, this program can work to show you the percents of your facial expression, but is not an accuracy way to do it because behind the human behavior there are more things to think about it if we are talking about feelings, and this may not be always the correct answer to the feelings of a person. 

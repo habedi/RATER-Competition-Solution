@@ -1,0 +1,9 @@
+How much easier would online schoolwork be for students if the computer could detect their emotions and adjust things to help? Facial Action Coding System (FACS) is a new development in technology that is able to do such a thing by looking at which of the 44 facial muscles are in use and how.
+
+With the use of FACS, computers would be able to calculate emotions such as frustation, anger, or confusion and adjust things to help, either by explaning the information available, or by giving a deminstration. FACS would also be able to decect if a student is bored and give either more challenging work, or making the work there more fun.
+
+Additionally, by using FACS, teachers would more easily identify students who need help. They would be able to talk to the student and more accuratly figure out the problem, then help them or adjust the information themselves. It's helpful in programing as well when making 3D models of the human face (assisting graphic designers in their jobs).
+
+As stated in paragraph 6 of the artical, Dr. Huang states "Most human communication is nonverbal, including emotinal communication, so computers need to understand that, too." Technology would be able to better serve us if it could understand us more, making jobs and learning more effective.
+
+FACS would be able to enhance our learning in school, and assist in our learning. By using FACS, students would have an easier time in class, making FACS valuable to edication and helpful. 

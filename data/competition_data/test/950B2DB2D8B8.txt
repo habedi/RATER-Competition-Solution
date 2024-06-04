@@ -1,0 +1,15 @@
+Do you think that having a computer that recognizes your feelings is a great idea?
+
+The facial expressions for each emotion are universal, so I'm going to be talking about the way this project works, some examples on how you can use it and how can your computer know which muscles you are using.
+
+The way this project works is that when a computer constructs a 3D computer model of the face all of the 44 major muscles in the model must move like human muscles this is called an action unit. So any movement that your face does the computer it's going to be able to recognize your feelings and it's going to tell you the way you feel and the way you can get entartain or better.
+
+An exanple is that your frontails pars lateralis muscle raises your eyebrows when you're surprised the orbicularis oris tightens your lips and shows anger so the computer it's going to be able to recognize the way your feeling and it's going to pop up with a face doing the same thing that you're doing
+
+The way you can use it is by making weird faces moving your face muscles and smiling putting mad faces sad faces and disgusting faces. So lets say that you start laughing in front of the computer, you're basically using it because you're showing your face to the computer and the computer tries to recognize the muscles that you are using. The computer has all the muscles that your face has so it's pretty easy to recogize your feelings. For example if you are doing an eye exercise the computer will automatically recognize how are you feeling like tired bored happy mad or sad, it depends on the movements that you do with your eyes.
+
+The way the computer knows the muscles that you're using is by looking at your face and see which what parts of your face are being use.
+
+So as soon as the computer recognizes your actions you'll see faces on the computer doing the same thing that you ere doing. When you fake smile the computer will recognize whether you are foreal or not because the muscles that are supposed to be in movement are zygomatic major and the risorius, so when you fake smile your mouth stretches sideways and you can't play the computer very easily becasue the computer knows what muscles are being use.
+
+So I think that having a computer that recogizes your feelings is a great idea because imagine you're feeling happy and you sit down in front of a computer and out of nowhere the computer tells you that you are feeling sad even know you're feeling happy I think that's cool because no one else can recognize your feelings the way the computer does and you're going to be surprised when the computer tells you your feelings.

@@ -1,0 +1,15 @@
+INTRODUCTION: A brand new software has been developed. This software improves accuracy in perceiving the emotions of others; This new software has promising applications for a variety of industries.
+
+Imagine a computer can tell how you're feeling just from your face, like for example you go to a computer and ask her how am I feeling today, then the computer will say= 83%happy, 9%disgusted, 6%fearful, 2%angry; And you'll be like WHAT?, how can a simple computer make such a thing?.
+
+The process begins when the computer constructs a 3-D model of the face, with 44 major muscles this is called "action unit".
+
+Dr. Paul Eckman, creator of FACS (Facial Action Coding System)
+
+BODY: Dr. Huang observes that the facial expressions for each emotion are universal and humans perform the same impressive "calculation" every day; How?: you can probably tell how is your friend feeling just looking at him or hearing his voice.
+
+This software could change the whole world; For example imagine you are in the ethernet and then a web ad player pop's up, if you smile at it a similar ad might follow; But if you frown, the next ad will be different.
+
+"A classroom computer could recognize when a student is becoming confused or bored" Dr. Huang predicts.
+
+CONCLUSION: Moving your facial muscles not only expresses emotions, but also can help produce them; we unconsciously imitate person's facial expressions. So in conclusion I would say that we can start using this magnificient software and his technology to read student's emotional expressions because it could also help teacher's to see how their student's are doing and if someone is distracted or bored the computer will notice the teacher so he/she can move on into another thing or go talk with the student.     

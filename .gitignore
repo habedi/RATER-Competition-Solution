@@ -67,7 +67,14 @@ tmp/
 # Dependency lock files (uncomment to ignore)
 poetry.lock
 
-# Miscellaneous files and directories to ignore
-# Add any additional file patterns a directory names that should be ignored down here
+# Miscellaneous files or folders
+# Add any additional file patterns or folder names to ignore specific to your project down here
 
+model_pack_1/
+trainer_tmp/
+#raw_preds/
+data/processed/
 
+first_stage_submission.csv.gz
+*.log
+final_submission.csv

@@ -1,0 +1,9 @@
+I'm going to talk now about a such interesting articte called "Making Mona Lisa Smile".
+
+This article talks about how a new type of technology for the computers called Facial Action Coding System is able to "calculate" your facial expressions and know how do you feel in that exact moment; sad, happy, surprised, angry... The author show an example about the Mona Lisa of her facial expressions, and that was de result of it:
+
+"She's 63 percent happy, 9 percent disgusted, 6 percent fearful and 2 percent angry". The process for this new system begins when the computer constructs a 3-D computer model of the face with all 44 major muscles. Every time those muscles moves create a new expression in your face, and depend of the movements of your muscles you will have one emotion or another that the computer will detect.
+
+I think that is an a good idea but it doesn't convince me at all. Dr. Huang say " A classroom computer could recognize when a student is becoming confused or bored", and "Then it could modify the lesson, like an effective human instructor", my opinion for this is that when you are at the school and you are reading something that it looks interesting for you and makes you happy, you will not be smiling at the screen of the computer, you will just be enjoying yourself about what are you reading. So if my muscles are not expressing any emotion the computer will probably detect that I'm bored and it will change what I'm reading. And for this reason I think that woul be a problem in more than just one situation.
+
+I did like this articte but I didn"t simle when I was reading it, so my conclusion is that I don't think that a computer will be able to "calculate" your emotions looking the muscles of your face. 

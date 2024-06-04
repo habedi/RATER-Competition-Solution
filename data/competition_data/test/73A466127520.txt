@@ -1,0 +1,7 @@
+Have you ever thought what a student's emotions are accordding to their facial expression? Apparently, a computer can using FACS ( Facial Action Coding System ). But, some wonder; how is it useful using this technology to read the emotional expressions of students in a classroom valuable?
+
+A computer software that can recognize someone's reaction( the FACS ) has been used on Leonardo Da Vinci's Renaissance painting, Mona Lisa. Dr. Paul Eckman,creator of FACS ( Facial Action Coding System), has classified six basic emotions- happiness, surprise, anger, disgust, fear, and sadness. The software uses all 44 major muscles to move human-like muscles in the computer. From there it calculates the percentage of the the person's emotions.
+
+Now will this technoloy be valuable? I, myself, honestly don't see a use of Facial Action Coding System in a classroom, but instead in a nurse or counsiler, or even a school therapist. Some adults need to know a student's emotions for help. A student could be down, but doesn't want to show it or talk about. That's were the FACS comes in to detect the student's emotion and probably saving a student's life. The machine and therapist can also be able to diagnose students with depression, bipolar disorders, etc.
+
+In conclusion, there is value in using this technology, the Facial Action Coding System, to read students' emotional expressions. Afterall, the machines are saving lifes.

@@ -1,0 +1,5 @@
+i agree that we should use the facial action coding system, it even told Mona Lisa emotion, she was 83 perecnt happy, 9 perecent disgusted, 6 perecent fearful, and 2 perecent angry. I think that it could help student, beacuse some student are to scared to ask qustion and they get confused, so the system could help us with telling us our emotion. and we humans like to tell people our emotion, and if you don't know how you like for example sad angry you can us the facial action to tell you how you feel.
+
+well it work by the computer constructs a 3-D computer model of the face, all 44 major muscle. Movement of one or more muscles is called an "action unit." 'The facial expression for each emotion are universal," observes Dr. Huang, even though individuals often show varying degrees of expression" like not smiling as broadly. Using video imagery, the new emotion-recognition software tracks these facial movements.
+
+by the way, did making a happy face in this experiment also make you feel slight happy? According to the facial feedback theroy of emotion, moving your facial muscles not only expresses emotions, but also may even help producethem.

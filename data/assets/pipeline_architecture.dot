@@ -1,0 +1,49 @@
+digraph InferencePipeline {
+
+    node [shape=box, style="filled,rounded"];
+
+    train_data [label=<
+        <b>Train Data</b><br />
+        [data/competition_data/train.csv;<br />
+        data/competition_data/train/*.txt]
+    >, fillcolor="#f8cecc"];
+
+    test_data [label=<
+        <b>Test Data</b><br />
+        [data/competition_data/test/*.txt]
+    >, fillcolor="#f8cecc"];
+
+    segmentation [label=<
+        <b>Pretrained Segmentation Models</b><br />
+        [models/model_pack_1/*]
+    >, fillcolor="#b3e6ff"];
+
+    wbf [label=<
+        <b>1D Weighted Box Fusion</b><br />
+        [bin/wbf.py]
+    >, fillcolor="#ffcc80"];
+
+    postprocessing [label=<
+        <b>Postprocessing</b><br />
+        [bin/fix_interim_submission.py]
+    >, fillcolor="#ffcc80"];
+
+    effectiveness [label=<
+        <b>Effectiveness Prediction Model</b><br />
+        [bin/predict_effectiveness.py]
+    >, fillcolor="#b3e6ff"];
+
+    final_predictions [label=<
+        <b>Final Predictions File</b><br />
+        [final_submission.csv]
+    >, fillcolor="#80ffaa"];  // Changed color
+
+    test_data -> segmentation [label="Essays"];
+    test_data -> effectiveness [label="Essays"];
+    train_data -> effectiveness [label="Essays, Discourse Types,\n and Effectiveness Labels"];
+    test_data -> postprocessing [label="Essays"];
+    segmentation -> wbf [label="Labelled Segments"];
+    wbf -> postprocessing [label="Interim Predictions"];
+    postprocessing -> effectiveness [label="Postprocessed Predictions"];
+    effectiveness -> final_predictions [label="Final Predictions"];
+}

@@ -1,0 +1,5 @@
+Technology that reads emotional expressions may actually be a good thing. The reason I say this is because this can be applied to just about anything in the near future. We may actually be able to get a better lie detecter result, or be able to understand people who don't show emotion. This technology can also be applied to robots which will be albe to read and understand emotions better.
+
+This program can make thing easyer for people who perfer not doing hard work on the computer. The program will break down your facial expression into six catagory happy, sad, anger, disgust, fear, and surprise. Then it will decide to make things easyer or harder for you. It can even tell what a person is filling in a picture like it did to the Mona Lisa. It broke down Mona Lisa's smile into 83% happy, 9% disgusted, 6% fearful, and 2% angry.
+
+There are a lot of uses for this technology. Some of them can make easyer for us, or make things less fun for us. There can be other uses for this that we don't even no about yet. Hopefuly all the uses are for good and not evil. Granted we wont no unless we give this technology a try.

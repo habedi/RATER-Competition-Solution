@@ -1,0 +1,15 @@
+to: TEACHER_NAME
+
+ADDRESS_NAME
+
+SCHOOL_NAME
+
+Dear: TEACHER_NAME
+
+how are you? i just took some time to write you this letter you need to know about.
+
+I am writing you a letter to describe to you i think the better policy, policy 2 one reason is because, phones are not allowed in the school in the first place, phones are a disturbing materials for class and its better to not have phones in school at all. Even though school allows them to have phones students will still turn them on and use them during class. Also some students use phone during reading time when they are in the library when supposable the teacher is teaching them and behind her back many kids are texting with their phones . Another occasions kids usually need to be doing their work but they are instead texting. i believe policy 2 is better for the school not to allow students have phones at school at all. if you have any questions please contact me as soon as you can at PHONE_NUMBER
+
+sincerely
+
+STUDENT_NAME

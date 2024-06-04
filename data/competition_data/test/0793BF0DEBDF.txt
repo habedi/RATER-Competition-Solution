@@ -1,0 +1,11 @@
+The FACS
+
+could be valuable or untrustworthy. The system may be used to recognize facial emotions, but if the perosn is making a false facial expression the system might not be able to recognize the expression. Also some people show their emotions differently from one another. Some may smile when they're angry or frown when they're nervous.
+
+Another problem is the system may not be able to detect the individuals expression do to their degree of expression. Some people only broadly smile when they're happy or only half grin.
+
+But the system can be very valuable in the tracking of facial emotions/expressions. It can track mixed emotions on an individuals face. But even so you can never be a hundred percent certain of someone's exact emotions or feelings.
+
+Sometimes people can detect feelings better than any software or system. A person can talk to someone with a happy facial expression but talk with an angry attitude. There can also be instinces where someone may be happy a lot and sad once in a while and are bad expressing it because they're always happy.
+
+Overall, the system can be useful in measuring most facial expressions. But some just can't be deciphered because nobody can know exactly what an individual is feeling. There is no software available today to tell exactly what one is felling.   

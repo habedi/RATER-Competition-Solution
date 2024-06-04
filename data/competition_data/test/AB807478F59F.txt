@@ -1,0 +1,5 @@
+This is about a computer program that can tell you about your smile. It tells you the percent of your smile like happniess and sadness. No emotions are safe. This computer can do a 3-D computewr model. The computer was developed by Prof Haung.
+
+The technology can tell you on what your emotionsin your smile. This technology can identify students emotion expressions. It can exactly detect in what that person is felling. Prof Haung has put in an algorithms into the computer so it can give you the percentiges in your smile. The comptuer uses Di Vinci's 6th code for this program. The computer can tell you if you are happy or sad in your smile.
+
+To sum up this programing. This computer graming can tell you anything about your smile. No ordninarly computer can do what this computer can do because it doesn't have the hard drive to do it. Dr. Hung has a partner that helped him build the computer. The Prof. name is Nicu Sebe. They both developed this program for the comouter that can tell you if you are happy or sad.    

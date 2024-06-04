@@ -1,0 +1,11 @@
+Using technology to read's student's emotional expressions is a good way of being able to detect exactly how other people are feeling, even when they are trying to hide their emotions. There is a new software, the Facial Action Coding System, has promising applications for a variety of industries. The process begins when the computer constructs a 3-D computer model of the face; all 44 major muscles in the model must move like human muscles. Movement of one or more muscles is called an ''action unit.'' The Dr. Huang relies on the work of psychologists Dr. Paul Eckman, who he is the creator of FACS (Facial Action Coding System). Eckman ''has classified six basic emotions- happiness, surpise, anger, disgust, fear, and sadness - and then associated each characteristic movements of the facial muscles. For example , your frontalis pars lateralis muscle (above your eyes) raises your eyebrows when you're surprised; your orbicularis oris (around your mouth) tightens your lips to show anger. In the article '' Making Mona Lisa Smile .''
+
+Eckman (paragraph 3).
+
+It says in the article '' The facial expressions for each emotion are universal, even though individuals often show varying degrees of expressions.'' Huang, (paragraph 4)
+
+In fact, us humans perfrom the same kinds of impressive ''clculation'' every day. For instance, you can probaly tell how a friend is feeling simply by the look on there face. The author talks about how '' Most humans communication is nonverbal, including emotional communication, So computers need to understand that, too.'' Huang, (paragraph 6)
+
+Also in the article it says '' It's all about those muscular action units. They even indiccate the difference between a genuine smile and a forced one. In the real smile, the zygomatic major (muscles that begin at your cheek bones) lift the corners of your mouth.''
+
+D ' Alto (paragraph 7) There is alot of stuff we can all learn about each other, Who knew it would invloe alot of science, facial expressions and emotions. Its always good to know how your students are feeling when you are teaching them something new.   

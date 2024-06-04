@@ -1,0 +1,5 @@
+What if i told you the computer you sit in front of everyday in school could read your emotions as you work,now I know this sounds but its true.
+
+Its called the FACS(Facial Action Coding system)and i think it would be awsome if we had this level of technology in school. Dr Huang and his colleauges originally built this so they could find out how the lady in the mona lisa was feeling and they found out that she was 83% happy 9% disgusted 6%fearful and 2% angry. A classroom computer could recognize when a student is is bored or confused during a lesson and then using the FACS the computer modifys the questions so you arent so bored or makes the difficulty easier like a human instructor. The FACS constructs a 3d computer module of the face and all 44 major muscles in the module move like a human face and one muscle moves its called an action unit then the rest of the work is done by psychologists by classifying the emotion depending on the movements of your facial muscles.
+
+I think it would be a great idea to have the FACS installed in school computer,I think it would improve working habits and motivate students to be more positive.         

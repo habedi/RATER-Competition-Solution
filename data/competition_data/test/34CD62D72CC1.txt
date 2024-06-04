@@ -1,0 +1,11 @@
+If a computer in the classroom that can read human emotion's was implemented then it could be a excellent help to students.
+
+Students in a classroom are all very diverse when it comes down to emotion. A teacher may not be able to recognize these emotions and teach a lesson wrong in which a student cannot follow. Say a student was angry or sad toward a test score, the teacher may keep teaching in a way that ignores the way a student is feeling towards the class. With the computer identifying the emotion a teacher may change up teaching methods to help said student.
+
+This latest computer technology was created by Prof. Thomas Huang of Beckman Institute for Advanced Science at the University of Illinois used work of psychologist Dr. Paul Eckman. This technology uses 44 major muscles in the face movement's to create an calculation of what emotion the user is expressing. The computer idientifies the user with six basic emotions, happiness, surprise, anger, disgust, fear and sadness. By recording the movement of one of the favial muscles the computer can identify a person with any combination of the six emotions. In the painting of Da Vinci's "Mona Lisa", the computer calculated, "She's 83 percent happy, 9 percent disgusted, 6 percent fearful and 2 percent angry."
+
+This technology can change the way we interact with devices in our everyday activites. Alto says in the article, "For example, if you smile when a Web ad appears on your screen, a similar ad might follow. But if you frown, the next ad will be different."
+
+This kind of selection can improve our experience while browsing the internet. This can help identifying the food we like, clothes we like, trips or hobbies we'd enjoy.
+
+The educational value in this is grand as that using the technology of recognizing emotions, the computer can shift lessons so the student can follow along with. "A class room computer could recognize when a student is feeling confused or bored, 'Dr. Huang predicts. 'Then it could modify the lesson, like an effective human instructor." This can speed up the learning process and change the way the world educates today. The future is now and the future is change.

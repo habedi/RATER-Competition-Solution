@@ -1,0 +1,9 @@
+We have all seen the look on Leonardo da Vinci's very own Mona Lisa's face. Some might see a blank face. Some may see happiness, anger or even fear. A machine by the name of Facial Action Coding Systems (FACS) can tell you exactly how she feels. This new technology can even be valuable in the classroom.
+
+This recently created software scans facial movements. It weighs the different units of expression. Although Mona Lisa is just a painting that doesn't move, she is compared to a neutral face. According to Prof. Thomas Huang and Prof. Nicu Sebe, researchers of FACS, "She's 83 percent happy, 9 percent disgusted, 6 percent fearful and 2 percent angry."
+
+It may seem unlikely that Dr. Paul Eckman, the creator of FACS, only uses "six basic emotions- happiness, surprise, anger, digust, fear and sadness", but when the computer constructs a 3-D model, it uses all 44 major muscles in the face.
+
+Imagine making a certain facial expression and your computer screen magically changes its settings. In the future Dr. Huang predicts "A classroom computer could recognize when a student is becoming confused or bored. Then it could modify the lesson, like an effective human instructor". This could cause a dramatic postive change in test scores. Also not all students can gather information the same way. Students will want to know more if the information is grabbing their attention.
+
+Allowing computers to scan information from facial expressions in the classroom setting can and will drive students to want to learn because of the personal format and reliablity.

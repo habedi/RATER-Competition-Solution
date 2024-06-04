@@ -1,0 +1,5 @@
+Acording to the artical, the use of this technology to read the emotional expressions of students in a classroom is valuable because the software can actually recognize about every emotion. Dr. Huang and his colleague are experts at developing better ways for humans and computers to communicate.
+
+In paragraph 2, the question asks "How can a computer recognize the subtle facial movement we humans use to express how we feel?" Paragraph 3 then goes on to explain the answer to that question. They said that the process begins when the computer contructs a 3-D computer model of the face. All 44 major muscles in the model must move like human muscles. Then Dr. Huang relies on the work of psychologists such as Dr. Eckman. This doctor classified 6 different basic emotions.
+
+According to the Facial Feedback Theory of Emotion, moving your facial muscles not only express emotions, but may also even help producd them. From my perspective, The use of this technology to read emotional expressions of students in a classroom is very indead valuable.   
