@@ -57,5 +57,5 @@ transformers==4.16.0
 triton==2.2.0
 typing-extensions==4.11.0
 tzdata==2024.1
-urllib3==2.2.1
+urllib3==2.2.2
 webencodings==0.5.1
